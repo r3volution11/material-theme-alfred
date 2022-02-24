@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#3C505DE5",
+        "font" : "System Light",
+        "color" : "#5E8197CC"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#B074D8FF",
+        "font" : "System",
+        "color" : "#F56F47FF"
+      },
+      "backgroundSelected" : "#95B8C64C",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#206897FF",
+        "font" : "System",
+        "color" : "#3C505DE5"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 10,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#95B8C64C",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#206897FF",
+        "font" : "System",
+        "color" : "#3C505DFF"
+      },
+      "background" : "#FAFAFA00",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#FAFAFAC5",
+      "paddingHorizontal" : 10,
+      "width" : 780,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "Doug C. Hardester (r3volution11)",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#3A3E5700",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#95B8C68C",
+      "thickness" : 6
+    },
+    "name" : "Material - Lighter (Big Sur)"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#B2CCD6E5",
+        "font" : "System Light",
+        "color" : "#86A1ACB2"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#FF5370FF",
+        "font" : "System",
+        "color" : "#F78C6CFF"
+      },
+      "backgroundSelected" : "#546E794D",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFCC00FF",
+        "font" : "System",
+        "color" : "#B2CCD6E5"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 0,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#546E794C",
+      "paddingHorizontal" : 10,
+      "spacing" : 10,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#FFCC00FF",
+        "font" : "System",
+        "color" : "#FEFFFEFF"
+      },
+      "background" : "#26323800",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#263238DF",
+      "paddingHorizontal" : 0,
+      "width" : 780,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 8,
+      "paddingVertical" : 10
+    },
+    "credit" : "Doug C. Hardester (r3volution11)",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#3A3E5700",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#546E798B",
+      "thickness" : 6
+    },
+    "name" : "Material - Default"
+  }
+}

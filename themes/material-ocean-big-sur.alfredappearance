@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#D2D6EFB2",
+        "font" : "System Light",
+        "color" : "#5C6185E5"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#FFCD00FF",
+        "font" : "System",
+        "color" : "#C78EECFF"
+      },
+      "backgroundSelected" : "#4046634C",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#C1E987FF",
+        "font" : "System",
+        "color" : "#D2D6EFB2"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 10,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#4046634C",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#89DDFFFF",
+        "font" : "System",
+        "color" : "#FEFFFEFF"
+      },
+      "background" : "#0F111A00",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#0F111AE0",
+      "paddingHorizontal" : 10,
+      "width" : 780,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "Doug C. Hardester (r3volution11)",
+    "visualEffectMode" : 2,
+    "separator" : {
+      "color" : "#3A3E5700",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#40466380",
+      "thickness" : 6
+    },
+    "name" : "Material - Ocean (Big Sur)"
+  }
+}
