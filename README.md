@@ -24,9 +24,9 @@ Font Used: San Francisco
 
 ### Alfred Theme Options
 
-[x] Hide hat on Alfred window\n
-[x] Show result subtext `Always`\n
-I want to see: `9` visible result items\n
-[x] Show scroll indicator `Automatically`\n
-[x] How he acts: Auto-highlight top result\n
+[x] Hide hat on Alfred window\
+[x] Show result subtext `Always`\
+I want to see: `9` visible result items\
+[x] Show scroll indicator `Automatically`\
+[x] How he acts: Auto-highlight top result\
 Focusing: `Standard Mode`
