@@ -4,7 +4,7 @@
 
 Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme).
 
-There are two styles available: Normal (compact) and Big Sur style which appears in the image above.
+There are two styles available: Regular (compact) and Big Sur style which appears in the image above.
 
 And there are 5 themes: Default, Darker, Lighter, Ocean and Palenight.
 
