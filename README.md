@@ -2,7 +2,7 @@
 
 # Material Theme for Alfred (macOS)
 
-Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme).
+Based on the most epic theme for Visual Studio Code (and many other apps) made by @equinusocio, [Material Theme](https://material-theme.site). It's a great theme with beautiful colors and plenty of themes to keep things fresh and current.
 
 There are two styles available: Regular (compact) and Big Sur style which appears in the image above.
 
