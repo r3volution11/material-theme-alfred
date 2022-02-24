@@ -1,4 +1,4 @@
-![Material Theme for Alfred Screenshot](https://r3v.in/N6HT/material-alfred-theme-hero.jpg)
+![Material Theme for Alfred Screenshot](https://raw.githubusercontent.com/r3volution11/material-alfred-theme/main/resources/material-alfred-theme-hero.jpg)
 
 # Material Theme for Alfred (macOS)
 
@@ -11,7 +11,7 @@ And there are 5 themes: Default, Darker, Lighter, Ocean and Palenight.
 ## Install
 
 1. Clone or Download this repository.
-2. Navigate to directory and open the theme file you'd like to install (Ex: `Material Palenight.alfredappearance`).
+2. Navigate to themes directory and open the theme file you'd like to install (Ex: `material-palenight-big-sur.alfredappearance`).
 3. Alfred will take it from there!
 
 ## What's Alfred?
@@ -24,9 +24,9 @@ Font Used: San Francisco
 
 ### Alfred Theme Options
 
-[x] Hide hat on Alfred window
-[x] Show result subtext `Always`
+Hide hat on Alfred window
+Show result subtext `Always`
 I want to see: `9` visible result items
-[x] Show scroll indicator `Automatically`
-[x] How he acts: Auto-highlight top result
+Show scroll indicator `Automatically`
+How he acts: Auto-highlight top result
 Focusing: `Standard Mode`
